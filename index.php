@@ -5,7 +5,11 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//This stopped buffered instances test
+	//machine was launched from the buffer
 	
+	//dj+8
+	//Time to finish
 }
 // delete condition
 
