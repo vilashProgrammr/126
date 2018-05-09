@@ -5,7 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//dj+10
+	//buffered instance test
 }
 // delete condition
 
